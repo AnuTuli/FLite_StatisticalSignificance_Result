@@ -1,0 +1,79 @@
+Node 1:
+
+--- A/B Test Summary Metrics ---
+group  visitors  conversions  conversion_rate
+    A       233           29         0.124464
+    B       267            5         0.018727
+
+
+--- Statistical Analysis ---
+Group A Conversion Rate: 12.45%
+Group B Conversion Rate: 1.87%
+Z-Score: -4.6850
+P-Value: 0.0000
+
+Result: STATISTICALLY SIGNIFICANT. Reject the null hypothesis.
+
+Node 2:
+
+--- A/B Test Summary Metrics ---
+group  visitors  conversions  conversion_rate
+    A       478           56         0.117155
+    B       522            8         0.015326
+
+
+--- Statistical Analysis ---
+Group A Conversion Rate: 11.72%
+Group B Conversion Rate: 1.53%
+Z-Score: -6.5719
+P-Value: 0.0000
+
+Result: STATISTICALLY SIGNIFICANT. Reject the null hypothesis.
+
+Node 3:
+
+--- A/B Test Summary Metrics ---
+group  visitors  conversions  conversion_rate
+    A       726           82         0.112948
+    B       774           12         0.015504
+
+
+--- Statistical Analysis ---
+Group A Conversion Rate: 11.29%
+Group B Conversion Rate: 1.55%
+Z-Score: -7.7818
+P-Value: 0.0000
+
+Result: STATISTICALLY SIGNIFICANT. Reject the null hypothesis.
+
+Node 4: 
+
+--- A/B Test Summary Metrics ---
+group  visitors  conversions  conversion_rate
+    A       969          114         0.117647
+    B      1031           18         0.017459
+
+
+--- Statistical Analysis ---
+Group A Conversion Rate: 11.76%
+Group B Conversion Rate: 1.75%
+Z-Score: -9.0188
+P-Value: 0.0000
+
+Result: STATISTICALLY SIGNIFICANT. Reject the null hypothesis.
+
+Node 5:
+
+--- A/B Test Summary Metrics ---
+group  visitors  conversions  conversion_rate
+    A      1213          138         0.113768
+    B      1287           23         0.017871
+
+
+--- Statistical Analysis ---
+Group A Conversion Rate: 11.38%
+Group B Conversion Rate: 1.79%
+Z-Score: -9.7626
+P-Value: 0.0000
+
+Result: STATISTICALLY SIGNIFICANT. Reject the null hypothesis.
